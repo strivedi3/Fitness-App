@@ -10,4 +10,3 @@ Fitness Application
  optimal performance across devices. Organized the project for
  maintainability and scalability.
  Technologies Used : HTML, CSS, JavaScript, React.
-# Fitness-App
